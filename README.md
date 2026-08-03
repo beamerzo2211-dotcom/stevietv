@@ -8,7 +8,7 @@ I enjoy spending my time broadening my coding experience. I have followed progra
 - 💬 I enjoy gaming, both table top and video games.
 - 💻 I'm comfortable in C#, Javascript, SQL
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevietv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevietv&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=stevietv&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended) [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=stevietv&show_icons=true&theme=radical&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **stevietv/stevietv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
